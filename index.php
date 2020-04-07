@@ -55,6 +55,6 @@
 	 let questions=<?php echo json_encode($questions); ?>;
 	 let right_answers= <?php echo json_encode($right_answers); ?>;
 </script>
-<script src="js/script.js"></script>
+<script src="script.js"></script>
 </body>
 </html>
