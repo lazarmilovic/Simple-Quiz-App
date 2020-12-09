@@ -19,7 +19,7 @@ During the quiz, the user can also see the number of correctly answer questions 
 
 ## Screenshot
 
-![alt text](https://github.com/lazarmilovic/Simple-Quiz-App/blob/master/img.png?raw=true);
+![alt text](https://github.com/lazarmilovic/Simple-Quiz-App/blob/master/img.png?raw=true)
 
 
 ## Technologies
