@@ -1,5 +1,5 @@
 # Simple-Quiz-App
-A simple Quiz app built using JS and PHP.
+A simple Quiz app built using JS, PHP and MySQL.
 
 ## Table of content: 
 * [General info](#general_info)
@@ -33,4 +33,4 @@ During the quiz, the user can also see the number of correctly answer questions 
 ## Setup
 
 To run the app, you would need a local server, since the app us using PHP and MySQL. I used XAMPP. I you are using XAMPP or WAMP, you should be good to go. Download the code and open your XAMPP/WAMP server. Put the downloaded code in one folder inside your local server- anywhere inside the "htdocs" folder on server. 
-Also, open localhost:8080/phpmyadmin and add sql file to it. 
+Also, open localhost:8080/phpmyadmin and import quiz.sql file to it. Once done, you will be able to start the quiz- te URL should be localhost:8080/[name of the folder in htdocs]/index.html
